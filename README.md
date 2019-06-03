@@ -1,10 +1,10 @@
 # JSAI2019Tutorial
-JSAI2019でのチュートリアル講演 「オントロジー工学に基づくセマンティック技術」の資料公開用のレポジトリです．  
+JSAI2019での[チュートリアル講演 「オントロジー工学に基づくセマンティック技術」](https://www.ai-gakkai.or.jp/jsai2019/tutorial) の資料公開用のレポジトリです．  
 資料は講演開始前には，暫定版をアップする予定です．
 
 # セッションの情報
-## [チュートリアル講演1](https://www.ai-gakkai.or.jp/jsai2019/tutorial) 
-[古崎 晃司](https://www.osakac.ac.jp/labs/kozaki/) （大阪電気通信大学 教授）  
+講演者　[古崎 晃司](https://www.osakac.ac.jp/labs/kozaki/) （大阪電気通信大学 教授）  
+  
 【2C3-TS-1a】 [オントロジー工学に基づくセマンティック技術（1）](https://confit.atlas.jp/guide/event/jsai2019/session/2C03-01/tables?WJfjypLciB)  
 2019年6月5日(水) 13:20 〜 15:00 C会場 (4F 国際会議室)
 
