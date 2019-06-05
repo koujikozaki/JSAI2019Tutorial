@@ -19,7 +19,7 @@ JSAI2019での[チュートリアル講演 「オントロジー工学に基づ�
 - オントロジー構築・利用の事例紹介
 
 ### 講演スライド
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/kWtqSkZpulj75U" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KoujiKozaki/1-148911302" title="オントロジー工学に基づくセマンティック技術(1)オントロジー工学入門" target="_blank">オントロジー工学に基づくセマンティック技術(1)オントロジー工学入門</a> </strong> from <strong><a href="//www.slideshare.net/KoujiKozaki" target="_blank">Kouji Kozaki</a></strong> </div>
+https://www.slideshare.net/KoujiKozaki/1-148911302
 
 ### 関連資料
 - 「法造」によるオントロジー構築入門 https://github.com/koujikozaki/OntologyBuliding
@@ -30,8 +30,15 @@ JSAI2019での[チュートリアル講演 「オントロジー工学に基づ�
 
   
 ナレッジグラフ，Linked Data，Linked Open Data(LOD)の考え方と，基本的な利用法について解説する．  
-- ナレッジグラフとは
-- LODの公開例
-- SPARQLによる検索例
-- ナレッジグラフの構築例～ナレッジグラフ推論チャレンジを例として～
+- セマンティックウェブ（Semantic Web）
+- ナレッジグラフ（Knowledge Graph/知識グラフ）
+- Linked Data/Linked Open Data（LOD）
+- ナレッジグラフ/Linked Data/LODの利用技術
+- ナレッジグラフの構築・利用例
+  - ナレッジグラフ推論チャレンジ
+  - 医療分野での応用事例～疾患コンパス～
+
+
+### 講演スライド
+https://www.slideshare.net/KoujiKozaki/2-148911068
 
