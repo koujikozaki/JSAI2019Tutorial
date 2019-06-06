@@ -51,11 +51,27 @@ http://www.sigswo.org/　研究会資料公開あり
 - ISWC2017サーベイ　http://id.nii.ac.jp/1004/00009109/
 - ISWC2016サーベイ　http://id.nii.ac.jp/1004/00008619/
 
+### ナレッジグラフ推論チャレンジ
+https://challenge.knowledge-graph.jp/  
+説明能力を持ったAIシステムの開発を目指して開催されていrうコンテスト．  
+第1回，第2回は，シャーロックホームズの推理小説をナレッジグラフ化したものを対象にして，
+「ホームズと同じような推理ができる」システムの開発をタスクとしている．
+
+### LODチャレンジ
+http://lod.jp  
+LOD技術の普及を目的としたコンテスト．応募作品は，ナレッジグラフの構築・利用例に相当．
+
+
+
+
 ### 主な関連国際会議
 - International Semantic Web Conference (ISWC)  
 http://swsa.semanticweb.org/content/international-semantic-web-conference-iswc
 - ESWC（Extended Semantic Web Conference）
 - The Conferences on Formal Ontology in Information Systems （FOIS）
+- [The Joint International Semantic Technology Conference (JIST)](https://link.springer.com/conference/aswc)    
+http://jist2018.knowledge-graph.jp/  
+http://www.ict.griffith.edu.au/aist/jist2017/  
 - KEOD（International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management）  
 http://www.keod.ic3k.org/websites.aspx
 
