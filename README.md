@@ -58,7 +58,7 @@ https://challenge.knowledge-graph.jp/
 「ホームズと同じような推理ができる」システムの開発をタスクとしている．
 
 ### LODチャレンジ
-http://lod.jp  
+http://lodc.jp  
 LOD技術の普及を目的としたコンテスト．応募作品は，ナレッジグラフの構築・利用例に相当．
 
 
